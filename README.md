@@ -7,7 +7,7 @@ The purpose of this exercise is to demonstrate the following abilities:
 * Feature Branching and knowledge of GIT
 * Having fun, by making an app that is completely useless, unless you own a vending machine company. In that case you probably should find another repo.
 
-Probably didn't need to fork this from Guy, but thank you Guy for the template... Everything before my first commit is his fault. :-)
+Probably didn't need to fork this... but thank you Guy for the template... Everything before my first commit is his fault. :-)
 
 To get going, just clone and do:
 
