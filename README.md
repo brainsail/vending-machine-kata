@@ -1,11 +1,33 @@
-Vending Machine Kata
+My Vending Machine Kata
 ====================
 
-In this exercise you will build the brains of a vending machine.  It will accept money, make change, maintain
-inventory, and dispense products.  All the things that you might expect a vending machine to accomplish.
+The purpose of this exercise is to demonstrate the following abilities:
 
-The point of this kata to to provide a larger than trivial exercise that can be used to practice TDD.  A significant
-portion of the effort will be in determining what tests should be written and, more importantly, written next.
+* Test Driven Development (TDD)
+* Feature Branching and knowledge of GIT
+* Having fun, by making an app that is completely useless, unless you own a vending machine company. In that case you probably should find another repo.
+
+Probably didn't need to fork this from Guy, but thank you Guy for the template... Everything before my first commit is his fault. :-)
+
+To get going, just clone and do:
+
+`npm install`
+
+I used Gulp, because I like it, not because it's better or worse that other things (besides grunt, it's definitely better than grunt).
+
+Here are some things you can do:
+
+__Start the watcher for file changes, and upon file changes, run the tests.__
+
+On the console run (ctrl-C to get out):
+
+`gulp tdd`
+
+__Just run the tests.__
+
+On the console run:
+
+`gulp test`
 
 Features
 ========
