@@ -1,0 +1,26 @@
+{
+  "name": "vending-machine-kata",
+  "version": "1.0.0",
+  "description": "Just a Vending Machine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brainsail/vending-machine-kata.git"
+  },
+  "author": "Dave Davis",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/brainsail/vending-machine-kata/issues"
+  },
+  "homepage": "https://github.com/brainsail/vending-machine-kata#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jasmine": "^2.4.2",
+    "gulp-watch": "^4.3.11",
+    "jasmine": "^2.5.3",
+    "jshint": "^2.9.4"
+  }
+}
